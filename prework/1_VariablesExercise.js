@@ -1,4 +1,4 @@
- Week 1 - Variables 
+// Week 1 - Variables 
 
 // In the following exercises, you will need to place your code or answer underneath each
 // exercise prompt.
