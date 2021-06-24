@@ -1,4 +1,4 @@
-// Week 1 - Variables
+ Week 1 - Variables 
 
 // In the following exercises, you will need to place your code or answer underneath each
 // exercise prompt.
@@ -12,6 +12,7 @@
 // Data Types and Variables
 
 // Exercise 1. Simply declare a variable named 'emptyVariable'
+
 
 // Exercise 2. Declare a variable called 'myName'
 
